@@ -39,6 +39,8 @@ El objetivo principal es combatir la cancelación de membresías mediante el an�
 ## Conclusiones
 Se caracteriza cada grupo por sus niveles de frecuencia de visita, participación en actividades grupales y gastos adicionales, y se proponen estrategias personalizadas para cada uno de ellos. Estas estrategias buscan aumentar la fidelidad y la satisfacción de los miembros, incluyendo promociones, programas de fidelización, encuestas y programas personalizados para satisfacer mejor sus necesidades.
 
+**Nota**: Este proyecto fue desarrollado como parte de mi formación en el bootcamp de Tripleten en el área de análisis de datos.
+
 ## Visualizaciones
 ![image](https://github.com/user-attachments/assets/08063280-479b-4dcd-864d-21ab545744cd)
 ![image](https://github.com/user-attachments/assets/c3adf084-33f2-4a7f-aea4-ee518856c110)
